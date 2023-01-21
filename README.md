@@ -1,9 +1,9 @@
 <h1 align="center">Hi y'all I'm Nikitha</h1>
 <h3 align="center">A passionate software developer, machine learning engineer and data scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1367885932/vector/cute-girl-working-on-laptop-office-worker-studying-at-home-cactus-cup-books-school-supplies.jpg?s=612x612&w=0&k=20&c=LstbfZTdsRychrrlvRUvHFm30v2OaKp4bLCh0lIEMUA=“>
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/09/e5/1709e521bdae6cb4770d679c28d623dc.jpg“>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikithak08&label=Profile%20views&color=0e75b6&style=flat" alt="nikithak08" /> </p>
-- 🌱 I’m currently learning **Web Dev**
+- 🌱 I’m currently learning Web Dev
 
 - 📫 How to reach me **nikithak102@gmail.com**
 
