@@ -1,5 +1,5 @@
 <h1 align="center">Hi y'all, I'm Nikitha</h1>
-<h3 align="center">A passionate software developer, machine learning engineer and data scientist because why not</h3>
+<h3 align="center">A passionate software developer, machine learning engineer and data scientist because why not?!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1164538944/vector/woman-with-laptop-studying-or-working-concept-table-with-books-lamp-coffee-cup-vector.jpg?s=612x612&w=0&k=20&c=VhUj_AZoUnilUKdRessjsK6JQUjXCfum7RQyuzOr6_0=“>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikithak08&label=Profile%20views&color=0e75b6&style=flat" alt="nikithak08" /> </p>
