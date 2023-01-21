@@ -3,9 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/1367885932/vector/cute-girl-working-on-laptop-office-worker-studying-at-home-cactus-cup-books-school-supplies.jpg?s=612x612&w=0&k=20&c=LstbfZTdsRychrrlvRUvHFm30v2OaKp4bLCh0lIEMUA=“>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikithak08&label=Profile%20views&color=0e75b6&style=flat" alt="nikithak08" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikithak08" alt="nikithak08" /></a> </p>
-
 - 🌱 I’m currently learning **Web Dev**
 
 - 📫 How to reach me **nikithak102@gmail.com**
